@@ -1,0 +1,15 @@
+{
+  "originHash" : "c96d3856c1fb14937e41a68f62e22e565b17cfeda026767dcbff0cb949afc02a",
+  "pins" : [
+    {
+      "identity" : "oddeven",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/userH309/OddEven",
+      "state" : {
+        "branch" : "main",
+        "revision" : "0122e7c80a8dbdb0093e62c3909adf7e78d0b87c"
+      }
+    }
+  ],
+  "version" : 3
+}
