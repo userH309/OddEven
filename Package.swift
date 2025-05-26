@@ -1,10 +1,10 @@
-// swift-tools-version:6.1
+// swift-tools-version:5.8
 import PackageDescription
 
 let package = Package(
     name: "OddEven",
     platforms: [
-        .iOS(.v13)
+        .iOS(.v14)
     ],
     products: [
         .library(
@@ -16,7 +16,7 @@ let package = Package(
         .binaryTarget(
             name: "OddEven",
             url: "https://github.com/userH309/OddEven/releases/download/v1.0.0/Shared.xcframework.zip",
-            checksum: "DIN_SJEKKSUM_HER"
+            checksum: "163b44be01df2ca881f7aab50c4ec581341e754c654f6f865510aaad05e38953"
         )
     ]
 )
